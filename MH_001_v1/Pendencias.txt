@@ -1,0 +1,43 @@
+* FAZER TODA A NOMENCLATURA EM INGLÊS
+* AS PENDENCIAS ESTÃO EM ORDEM DECRESENTE
+* APLICAR SOLID
+* COLOCAR O CAMINHO DE CADA ROTINA NA FRENTE DA MESMA
+
+
+- Criar txt. do descritivo da célula
+- Criar descritivo do produto
+- Criar layout da célula
+- Montar a planilha info célula
+- Criar fluxograma dos permissives
+- Criar os módulos/pastas e rotinas
+- Colocar cabeçalhos
+- Declarar variaveis(classes e matrizes) de todos os tipos:
+	-numéricas
+	-booleanas
+	-strings
+	-pontos de processo
+	-pontos de estação
+	-pontos de home
+- Atribuir valores aos produtos(parts)
+- Módulo/pasta de rotinas auxiliares:
+	-ajuste de pontos
+	-resete celula
+- Escrever rotinas de permissiveis nível 01
+- Escrever rotinas de permissiveis nível 02
+- Escrever rotinas de acionamentos(drive)
+- Escrever rotinas auxiliares
+- Escrever rotinas de setup
+- Escrever rotinas de check
+- Escrever sub rotinas
+- Escrever rotinas de Main
+- Calibrar o robô
+- Criar TCP
+- Criar work objects
+- Marcar pontos:
+	-home
+	-processo
+- Recovery Home
+- Criar método de dry run
+- Escrever rotina alarmes
+- Escrever rotina de mensagens
+- Colocar dados estatisticos de tempo e quantidade

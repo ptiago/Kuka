@@ -1,0 +1,4 @@
+Rev_20/12/22
+- Criação do descritivo do produto.
+- Criação do descritivo da célula.
+- Criação do layout da célula.
