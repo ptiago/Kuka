@@ -2,3 +2,36 @@ Rev_20/12/22
 - Criação do descritivo do produto.
 - Criação do descritivo da célula.
 - Criação do layout da célula.
+
+Rev_05/01/23
+- Primeiro upload do estudo
+
+Rev_07/01/23_001
+- Alterado nome da rotina 'rMsg_Per_NOK' para 'rMessage'
+- Criada rotina 'rAlarm'
+- Atualizada a planilha 'Rotinas' do arquivo 'Info célula'
+- Criada rotinas de permissíveis nível 01
+- Criada rotinas de permissíveis nível 02
+- Atualizada a planilha 'Variáveis' do arquivo 'Info célula'
+- Adicionado cabeçalhos nas rotinas existentes
+- Criada rotinas Main de processos
+- Criado fluxograma dos permissíveis nível 01
+- Escrito rotinas de permissíveis nível 01
+- Escrita a rotina 'rCheck_Permissible'
+- Atualizada a planilha 'Descrição' do arquivo 'Info célula'
+
+Rev_08/01/23_001
+- Atualizada rotina 'rCheck_Sensor.src'
+- Atualizada rotina 'rDrive.src'
+- Atualizada a rotina 'rPick_Part.src'
+- Criada rotina 'rDrop_Part.src'
+- Atualizada rotina 'rCheck_Permissible.src'
+- Criado fluxograma dos permissives nivel 02
+- Escrita rotinas de permissiveis nível 02
+- Atribuidos valores para a matriz 'nCheck_Per'
+- Atualizada a planilha 'Descrição' do arquivo 'Info célula'
+- Criada rotina 'rSet_Segment.src'
+- Atualizada a planilha 'Variáveis' do arquivo 'Info célula'
+- Criada rotina 'rSet_JobOK.src'
+- Escrita rotina 'r1111.src'
+
