@@ -35,3 +35,10 @@ Rev_08/01/23_001
 - Criada rotina 'rSet_JobOK.src'
 - Escrita rotina 'r1111.src'
 
+Rev_09/01/23_001
+- Escrita as rotinas do diretório 'Main'
+- Criado diretório 'Main'
+- Escrita as rotinas do diretório 'Main'
+- Atualizada a planilha 'Pontos de decisão' do arquivo 'Info célula'
+- Criado diretório 'Decision_Point'
+- Criada rotina 'DP_001'

@@ -31,7 +31,7 @@ X Escrever rotinas de setup
 X Escrever rotinas de check
 X Escrever sub rotinas
 - Escrever rotinas de Main
-- Adicionar os segmentos nas rotina necessárias
+X Adicionar os segmentos nas rotina necessárias
 - Calibrar o robô
 - Criar TCP
 - Criar work objects
