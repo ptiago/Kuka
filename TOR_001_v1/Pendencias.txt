@@ -1,0 +1,33 @@
+* FAZER TODA A NOMENCLATURA EM INGLÊS
+* AS PENDENCIAS ESTÃO EM ORDEM DECRESENTE
+* APLICAR SOLID
+* COLOCAR O CAMINHO DE CADA ROTINA NA FRENTE DA MESMA
+
+
+X Criar txt. do descritivo da célula
+X Criar descritivo do produto
+X Criar layout da célula
+X Montar a planilha info célula
+X Criar os módulos/pastas e rotinas
+- Colocar cabeçalhos
+X Declarar variaveis(classes e matrizes) de todos os tipos:
+	-numéricas
+	-booleanas
+	-strings
+	-pontos de processo
+	-pontos de estação
+	-pontos de home
+X Módulo/pasta de rotinas auxiliares:
+	-ajuste de pontos
+	-resete celula
+X Escrever rotinas de acionamentos(drive)
+X Escrever rotinas auxiliares
+X Escrever rotinas de setup
+X Escrever sub rotinas
+- Escrever rotinas de Main
+- Adicionar os segmentos nas rotina necessárias
+X Recovery Home
+- Criar método de dry run
+- Escrever rotina alarmes
+- Escrever rotina de mensagens
+- Colocar dados estatisticos de tempo e quantidade

@@ -1,0 +1,6 @@
+Rev_2023-02-01
+- Retirado dados sensíveis do cliente
+- Finalizada rotina de recovery para home, pontos dentro da mesma estação, e o encaminhamento para outra estação
+- Finalizado arquivo "Descritivo de produto"
+- Finalizado arquivo "Layout da célula"
+- Revisado arquivo "Info célula"
